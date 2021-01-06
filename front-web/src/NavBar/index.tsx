@@ -1,5 +1,5 @@
 import './style.css';
-import {ReactComponent as Logo} from './delivery.svg';
+import {ReactComponent as Logo} from './logo.svg';
 
 function Navbar(){
 
